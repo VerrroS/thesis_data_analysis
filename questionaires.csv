@@ -1,0 +1,1809 @@
+PersonID,Question,Answer,left,right,Condition
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,langweilig,spanned,UI + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,uninteressant,interessant,UI + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,einschläfernd,aktivierend,UI + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,minderwertig,wertvoll,UI + kein Audio
+0,Ich konnte gut mit dem Agenten lernen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Der Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,überladen,aufgeräumt,UI + kein Audio
+0,Die Gestaltung des Agenten hat mir gefallen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,0,Stimme nicht zu,Stimme zu,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nutzlos,nützlich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht hilfreich,hilfreich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht vorteilhaft,vorteilhaft,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht lohnend,lohnend,
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,langweilig,spanned,UI + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,uninteressant,interessant,UI + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,einschläfernd,aktivierend,UI + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,minderwertig,wertvoll,UI + kein Audio
+0,Ich konnte gut mit dem Agenten lernen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Der Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,überladen,aufgeräumt,UI + kein Audio
+0,Die Gestaltung des Agenten hat mir gefallen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,0,Stimme nicht zu,Stimme zu,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nutzlos,nützlich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht hilfreich,hilfreich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht vorteilhaft,vorteilhaft,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht lohnend,lohnend,
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,langweilig,spanned,UI + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,uninteressant,interessant,UI + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,einschläfernd,aktivierend,UI + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,minderwertig,wertvoll,UI + kein Audio
+0,Ich konnte gut mit dem Agenten lernen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Der Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,2,überladen,aufgeräumt,UI + kein Audio
+0,Die Gestaltung des Agenten hat mir gefallen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,0,Stimme nicht zu,Stimme zu,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nutzlos,nützlich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht hilfreich,hilfreich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht vorteilhaft,vorteilhaft,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht lohnend,lohnend,
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,langweilig,spanned,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,uninteressant,interessant,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,einschläfernd,aktivierend,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,minderwertig,wertvoll,ECA + Audio
+0,Ich konnte gut mit dem Agenten lernen,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Der Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,überladen,aufgeräumt,ECA + Audio
+0,Die Gestaltung des Agenten hat mir gefallen,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,3,Stimme nicht zu,Stimme zu,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nutzlos,nützlich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht hilfreich,hilfreich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht vorteilhaft,vorteilhaft,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht lohnend,lohnend,
+0,Die Gestaltung des Agenten hat mir gefallen,1,Drohne und Audio,Drohne ohne Audio,
+0,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,0,Stimme nicht zu,Stimme zu,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nutzlos,nützlich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht hilfreich,hilfreich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht vorteilhaft,vorteilhaft,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht lohnend,lohnend,
+0,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,0,Stimme nicht zu,Stimme zu,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nutzlos,nützlich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht hilfreich,hilfreich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht vorteilhaft,vorteilhaft,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht lohnend,lohnend,
+0,Die Gestaltung des Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+0,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,0,Stimme nicht zu,Stimme zu,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nutzlos,nützlich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht hilfreich,hilfreich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht vorteilhaft,vorteilhaft,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht lohnend,lohnend,
+0,Die Gestaltung des Agenten hat mir gefallen,3,Drohne und Audio,Drohne ohne Audio,
+0,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,0,Stimme nicht zu,Stimme zu,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nutzlos,nützlich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht hilfreich,hilfreich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht vorteilhaft,vorteilhaft,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht lohnend,lohnend,
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,langweilig,spanned,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,uninteressant,interessant,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,einschläfernd,aktivierend,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,minderwertig,wertvoll,ECA + Audio
+0,Ich konnte gut mit dem Agenten lernen,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Der Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,überladen,aufgeräumt,ECA + Audio
+0,Die Gestaltung des Agenten hat mir gefallen,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,langweilig,spanned,UI + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,uninteressant,interessant,UI + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,einschläfernd,aktivierend,UI + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,minderwertig,wertvoll,UI + Audio
+0,Ich konnte gut mit dem Agenten lernen,0,Stimme nicht zu,Stimme zu,UI + Audio
+0,Der Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,UI + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,UI + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,UI + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,UI + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,überladen,aufgeräumt,UI + Audio
+0,Die Gestaltung des Agenten hat mir gefallen,0,Stimme nicht zu,Stimme zu,UI + Audio
+0,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,UI + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,langweilig,spanned,ECA + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,uninteressant,interessant,ECA + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,einschläfernd,aktivierend,ECA + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,minderwertig,wertvoll,ECA + kein Audio
+0,Ich konnte gut mit dem Agenten lernen,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+0,Der Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,ECA + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,ECA + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,ECA + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,überladen,aufgeräumt,ECA + kein Audio
+0,Die Gestaltung des Agenten hat mir gefallen,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+0,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,langweilig,spanned,UI + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,uninteressant,interessant,UI + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,einschläfernd,aktivierend,UI + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,minderwertig,wertvoll,UI + kein Audio
+0,Ich konnte gut mit dem Agenten lernen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Der Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,überladen,aufgeräumt,UI + kein Audio
+0,Die Gestaltung des Agenten hat mir gefallen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,0,Stimme nicht zu,Stimme zu,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nutzlos,nützlich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht hilfreich,hilfreich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht vorteilhaft,vorteilhaft,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht lohnend,lohnend,
+0,Die Gestaltung des Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+0,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,0,Stimme nicht zu,Stimme zu,
+0,Die Antworten und Fragen des Sprachassistenten sind:,0,unpassend,passend,
+0,Die Antworten und Fragen des Sprachassistenten sind:,0,nutzlos,nützlich,
+0,Die Antworten und Fragen des Sprachassistenten sind:,0,nicht hilfreich,hilfreich,
+0,Die Antworten und Fragen des Sprachassistenten sind:,0,unintelligent,intelligent,
+0,Der LLM Agent hat die Bedienung der VR-Lernanwendung vereinfacht,0,Stimme nicht zu,Stimme zu,
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,
+0,Zum Lernen empfinde ich die Anwendung als:,0,überladen,aufgeräumt,
+0,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,0,Stimme nicht zu,Stimme zu,
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,langweilig,spanned,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,uninteressant,interessant,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,einschläfernd,aktivierend,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,minderwertig,wertvoll,ECA + Audio
+0,Ich konnte gut mit dem Agenten lernen,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Der Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,überladen,aufgeräumt,ECA + Audio
+0,Die Gestaltung des Agenten hat mir gefallen,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,langweilig,spanned,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,uninteressant,interessant,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,einschläfernd,aktivierend,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,minderwertig,wertvoll,ECA + Audio
+0,Ich konnte gut mit dem Agenten lernen,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Der Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,überladen,aufgeräumt,ECA + Audio
+0,Die Gestaltung des Agenten hat mir gefallen,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,langweilig,spanned,UI + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,uninteressant,interessant,UI + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,einschläfernd,aktivierend,UI + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,minderwertig,wertvoll,UI + Audio
+0,Ich konnte gut mit dem Agenten lernen,0,Stimme nicht zu,Stimme zu,UI + Audio
+0,Der Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,UI + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,UI + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,UI + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,UI + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,UI + Audio
+0,Die Gestaltung des Agenten hat mir gefallen,0,Stimme nicht zu,Stimme zu,UI + Audio
+0,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,UI + Audio
+0,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,0,Stimme nicht zu,Stimme zu,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nutzlos,nützlich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht hilfreich,hilfreich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht vorteilhaft,vorteilhaft,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht lohnend,lohnend,
+0,Die Gestaltung des Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+0,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,0,Stimme nicht zu,Stimme zu,
+0,Die Antworten und Fragen des Sprachassistenten sind:,0,unpassend,passend,
+0,Die Antworten und Fragen des Sprachassistenten sind:,0,nutzlos,nützlich,
+0,Die Antworten und Fragen des Sprachassistenten sind:,0,nicht hilfreich,hilfreich,
+0,Die Antworten und Fragen des Sprachassistenten sind:,0,unintelligent,intelligent,
+0,Der LLM Agent hat die Bedienung der VR-Lernanwendung vereinfacht,0,Stimme nicht zu,Stimme zu,
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,
+0,Zum Lernen empfinde ich die Anwendung als:,0,überladen,aufgeräumt,
+0,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,0,Stimme nicht zu,Stimme zu,
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,langweilig,spanned,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,uninteressant,interessant,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,einschläfernd,aktivierend,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,minderwertig,wertvoll,ECA + Audio
+0,Ich konnte gut mit dem Agenten lernen,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Der Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,ECA + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,überladen,aufgeräumt,ECA + Audio
+0,Die Gestaltung des Agenten hat mir gefallen,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,ECA + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,langweilig,spanned,UI + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,uninteressant,interessant,UI + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,einschläfernd,aktivierend,UI + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,minderwertig,wertvoll,UI + Audio
+0,Ich konnte gut mit dem Agenten lernen,0,Stimme nicht zu,Stimme zu,UI + Audio
+0,Der Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,UI + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,UI + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,UI + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,UI + Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,überladen,aufgeräumt,UI + Audio
+0,Die Gestaltung des Agenten hat mir gefallen,0,Stimme nicht zu,Stimme zu,UI + Audio
+0,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,UI + Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,langweilig,spanned,ECA + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,uninteressant,interessant,ECA + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,einschläfernd,aktivierend,ECA + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,minderwertig,wertvoll,ECA + kein Audio
+0,Ich konnte gut mit dem Agenten lernen,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+0,Der Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,ECA + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,ECA + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,ECA + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,2,überladen,aufgeräumt,ECA + kein Audio
+0,Die Gestaltung des Agenten hat mir gefallen,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+0,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,langweilig,spanned,UI + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,uninteressant,interessant,UI + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,einschläfernd,aktivierend,UI + kein Audio
+0,Die Beschäftigung mit dem Produkt empfinde ich als:,0,minderwertig,wertvoll,UI + kein Audio
+0,Ich konnte gut mit dem Agenten lernen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Der Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,UI + kein Audio
+0,Zum Lernen empfinde ich die Anwendung als:,0,überladen,aufgeräumt,UI + kein Audio
+0,Die Gestaltung des Agenten hat mir gefallen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+0,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,0,Stimme nicht zu,Stimme zu,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nutzlos,nützlich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht hilfreich,hilfreich,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht vorteilhaft,vorteilhaft,
+0,Die Möglichkeit das Produkt zu nutzen empfinde ich als:,0,nicht lohnend,lohnend,
+0,Die Gestaltung des Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+0,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,0,Stimme nicht zu,Stimme zu,
+0,Die Antworten und Fragen des Sprachassistenten sind:,0,unpassend,passend,
+0,Die Antworten und Fragen des Sprachassistenten sind:,0,nutzlos,nützlich,
+0,Die Antworten und Fragen des Sprachassistenten sind:,0,nicht hilfreich,hilfreich,
+0,Die Antworten und Fragen des Sprachassistenten sind:,0,unintelligent,intelligent,
+0,Der LLM Agent hat die Bedienung der VR-Lernanwendung vereinfacht,0,Stimme nicht zu,Stimme zu,
+0,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,
+0,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,
+0,Zum Lernen empfinde ich die Anwendung als:,0,unpragmatisch,pragmatisch,
+0,Zum Lernen empfinde ich die Anwendung als:,0,überladen,aufgeräumt,
+0,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,0,Stimme nicht zu,Stimme zu,
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,ECA + Audio
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,ECA + Audio
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,einschläfernd,aktivierend,ECA + Audio
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,ECA + Audio
+15,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,ECA + Audio
+15,Der LLM-Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,ECA + Audio
+15,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + Audio
+15,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + Audio
+15,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,ECA + Audio
+15,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + Audio
+15,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+15,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,3,Stimme nicht zu,Stimme zu,ECA + Audio
+15,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,ECA + Audio
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,ECA + kein Audio
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,uninteressant,interessant,ECA + kein Audio
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,ECA + kein Audio
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,ECA + kein Audio
+15,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+15,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+15,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + kein Audio
+15,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,ECA + kein Audio
+15,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,ECA + kein Audio
+15,Zum Lernen empfinde ich die Anwendung als:,2,überladen,aufgeräumt,ECA + kein Audio
+15,Die Gestaltung des LLM-Agenten hat mir gefallen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+15,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,ECA + kein Audio
+15,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,langweilig,spanned,UI + kein Audio
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,uninteressant,interessant,UI + kein Audio
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,einschläfernd,aktivierend,UI + kein Audio
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,UI + kein Audio
+15,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+15,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+15,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,UI + kein Audio
+15,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,UI + kein Audio
+15,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,UI + kein Audio
+15,Zum Lernen empfinde ich die Anwendung als:,1,überladen,aufgeräumt,UI + kein Audio
+15,Die Gestaltung des LLM-Agenten hat mir gefallen,2,Stimme nicht zu,Stimme zu,UI + kein Audio
+15,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+15,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,UI + Audio
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,UI + Audio
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,UI + Audio
+15,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,UI + Audio
+15,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,UI + Audio
+15,Der LLM-Agent hat mich Motiviert,6,Stimme nicht zu,Stimme zu,UI + Audio
+15,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,UI + Audio
+15,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,UI + Audio
+15,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,UI + Audio
+15,Zum Lernen empfinde ich die Anwendung als:,2,überladen,aufgeräumt,UI + Audio
+15,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,UI + Audio
+15,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,4,Stimme nicht zu,Stimme zu,UI + Audio
+15,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,UI + Audio
+15,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,4,Stimme nicht zu,Stimme zu,
+15,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nutzlos,nützlich,
+15,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht hilfreich,hilfreich,
+15,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht vorteilhaft,vorteilhaft,
+15,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht lohnend,lohnend,
+15,Diese Gestaltung des LLM-Agenten hat mir gefallen,2,Drohne und Audio,Drohne ohne Audio,
+15,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,6,Stimme nicht zu,Stimme zu,
+15,Die Eselsbrücken die mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,langsam,schnell,
+15,Die Eselsbrücken die mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,ineffizient,effizient,
+15,Die Eselsbrücken die mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,unpragmatisch,pragmatisch,
+15,Die Eselsbrücken die mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,überladen,aufgeräumt,
+15,Die Antworten und Fragen des LLM-Agenten sind:,4,unpassend,passend,
+15,Die Antworten und Fragen des LLM-Agenten sind:,4,nutzlos,nützlich,
+15,Die Antworten und Fragen des LLM-Agenten sind:,2,nicht hilfreich,hilfreich,
+15,Die Antworten und Fragen des LLM-Agenten sind:,3,unintelligent,intelligent,
+15,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+15,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,
+15,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,
+15,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,
+15,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,
+15,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,5,Stimme nicht zu,Stimme zu,
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,langweilig,spanned,ECA + kein Audio
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,uninteressant,interessant,ECA + kein Audio
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,3,einschläfernd,aktivierend,ECA + kein Audio
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,ECA + kein Audio
+17,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+17,Der LLM-Agent hat mich Motiviert,3,Stimme nicht zu,Stimme zu,ECA + kein Audio
+17,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + kein Audio
+17,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + kein Audio
+17,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,ECA + kein Audio
+17,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + kein Audio
+17,Die Gestaltung des LLM-Agenten hat mir gefallen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+17,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,ECA + kein Audio
+17,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,ECA + Audio
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,ECA + Audio
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,ECA + Audio
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,ECA + Audio
+17,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+17,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,ECA + Audio
+17,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,ECA + Audio
+17,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,ECA + Audio
+17,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + Audio
+17,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + Audio
+17,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+17,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,ECA + Audio
+17,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,UI + kein Audio
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,UI + kein Audio
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + kein Audio
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + kein Audio
+17,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+17,Der LLM-Agent hat mich Motiviert,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+17,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,UI + kein Audio
+17,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,UI + kein Audio
+17,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,UI + kein Audio
+17,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,UI + kein Audio
+17,Die Gestaltung des LLM-Agenten hat mir gefallen,3,Stimme nicht zu,Stimme zu,UI + kein Audio
+17,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,1,Stimme nicht zu,Stimme zu,UI + kein Audio
+17,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,UI + Audio
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,UI + Audio
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,UI + Audio
+17,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + Audio
+17,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,UI + Audio
+17,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,UI + Audio
+17,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,UI + Audio
+17,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,UI + Audio
+17,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,UI + Audio
+17,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + Audio
+17,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + Audio
+17,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,5,Stimme nicht zu,Stimme zu,UI + Audio
+17,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,UI + Audio
+17,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,5,Stimme nicht zu,Stimme zu,
+17,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nutzlos,nützlich,
+17,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht hilfreich,hilfreich,
+17,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht vorteilhaft,vorteilhaft,
+17,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht lohnend,lohnend,
+17,Diese Gestaltung des LLM-Agenten hat mir gefallen,2,Drohne und Audio,Drohne ohne Audio,
+17,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,4,Stimme nicht zu,Stimme zu,
+17,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,langsam,schnell,
+17,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,ineffizient,effizient,
+17,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,4,unpragmatisch,pragmatisch,
+17,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,überladen,aufgeräumt,
+17,Die Antworten und Fragen des LLM-Agenten sind:,3,unpassend,passend,
+17,Die Antworten und Fragen des LLM-Agenten sind:,4,nutzlos,nützlich,
+17,Die Antworten und Fragen des LLM-Agenten sind:,3,nicht hilfreich,hilfreich,
+17,Die Antworten und Fragen des LLM-Agenten sind:,3,unintelligent,intelligent,
+17,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+17,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,
+17,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,
+17,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,
+17,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,
+17,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,5,Stimme nicht zu,Stimme zu,
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,ECA + Audio
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,uninteressant,interessant,ECA + Audio
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,3,einschläfernd,aktivierend,ECA + Audio
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,ECA + Audio
+8,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+8,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,ECA + Audio
+8,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,ECA + Audio
+8,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + Audio
+8,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + Audio
+8,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,ECA + Audio
+8,Die Gestaltung des LLM-Agenten hat mir gefallen,4,Stimme nicht zu,Stimme zu,ECA + Audio
+8,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,4,Stimme nicht zu,Stimme zu,ECA + Audio
+8,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,3,langweilig,spanned,ECA + kein Audio
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,uninteressant,interessant,ECA + kein Audio
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,einschläfernd,aktivierend,ECA + kein Audio
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,ECA + kein Audio
+8,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+8,Der LLM-Agent hat mich Motiviert,3,Stimme nicht zu,Stimme zu,ECA + kein Audio
+8,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,ECA + kein Audio
+8,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + kein Audio
+8,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + kein Audio
+8,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,ECA + kein Audio
+8,Die Gestaltung des LLM-Agenten hat mir gefallen,2,Stimme nicht zu,Stimme zu,ECA + kein Audio
+8,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,ECA + kein Audio
+8,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,UI + Audio
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,uninteressant,interessant,UI + Audio
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,einschläfernd,aktivierend,UI + Audio
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,3,minderwertig,wertvoll,UI + Audio
+8,Ich konnte gut mit dem LLM-Agenten lernen,3,Stimme nicht zu,Stimme zu,UI + Audio
+8,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,UI + Audio
+8,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,UI + Audio
+8,Zum Lernen empfinde ich die Anwendung als:,2,ineffizient,effizient,UI + Audio
+8,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,UI + Audio
+8,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,UI + Audio
+8,Die Gestaltung des LLM-Agenten hat mir gefallen,3,Stimme nicht zu,Stimme zu,UI + Audio
+8,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,3,Stimme nicht zu,Stimme zu,UI + Audio
+8,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,UI + Audio
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,langweilig,spanned,UI + kein Audio
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,uninteressant,interessant,UI + kein Audio
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,3,einschläfernd,aktivierend,UI + kein Audio
+8,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,UI + kein Audio
+8,Ich konnte gut mit dem LLM-Agenten lernen,3,Stimme nicht zu,Stimme zu,UI + kein Audio
+8,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+8,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,UI + kein Audio
+8,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + kein Audio
+8,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,UI + kein Audio
+8,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,UI + kein Audio
+8,Die Gestaltung des LLM-Agenten hat mir gefallen,1,Stimme nicht zu,Stimme zu,UI + kein Audio
+8,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,1,Stimme nicht zu,Stimme zu,UI + kein Audio
+8,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+8,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,4,Stimme nicht zu,Stimme zu,
+8,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nutzlos,nützlich,
+8,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,4,nicht hilfreich,hilfreich,
+8,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,4,nicht vorteilhaft,vorteilhaft,
+8,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,4,nicht lohnend,lohnend,
+8,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+8,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,5,Stimme nicht zu,Stimme zu,
+8,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,langsam,schnell,
+8,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,ineffizient,effizient,
+8,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,unpragmatisch,pragmatisch,
+8,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,überladen,aufgeräumt,
+8,Die Antworten und Fragen des LLM-Agenten sind:,4,unpassend,passend,
+8,Die Antworten und Fragen des LLM-Agenten sind:,3,nutzlos,nützlich,
+8,Die Antworten und Fragen des LLM-Agenten sind:,2,nicht hilfreich,hilfreich,
+8,Die Antworten und Fragen des LLM-Agenten sind:,2,unintelligent,intelligent,
+8,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+8,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,
+8,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,
+8,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,
+8,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,
+8,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,5,Stimme nicht zu,Stimme zu,
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,ECA + kein Audio
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,ECA + kein Audio
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,ECA + kein Audio
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,ECA + kein Audio
+9,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+9,Der LLM-Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+9,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + kein Audio
+9,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + kein Audio
+9,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + kein Audio
+9,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + kein Audio
+9,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+9,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+9,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,ECA + Audio
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,ECA + Audio
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,ECA + Audio
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,ECA + Audio
+9,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+9,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,ECA + Audio
+9,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + Audio
+9,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + Audio
+9,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + Audio
+9,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + Audio
+9,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+9,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,4,Stimme nicht zu,Stimme zu,ECA + Audio
+9,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,ECA + Audio
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,UI + kein Audio
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,UI + kein Audio
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + kein Audio
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,UI + kein Audio
+9,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+9,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+9,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,UI + kein Audio
+9,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + kein Audio
+9,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + kein Audio
+9,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + kein Audio
+9,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+9,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+9,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,UI + Audio
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,UI + Audio
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + Audio
+9,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,UI + Audio
+9,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,UI + Audio
+9,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,UI + Audio
+9,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + Audio
+9,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + Audio
+9,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + Audio
+9,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + Audio
+9,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,UI + Audio
+9,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,4,Stimme nicht zu,Stimme zu,UI + Audio
+9,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,UI + Audio
+9,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,4,Stimme nicht zu,Stimme zu,
+9,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nutzlos,nützlich,
+9,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht hilfreich,hilfreich,
+9,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht vorteilhaft,vorteilhaft,
+9,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht lohnend,lohnend,
+9,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+9,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,4,Stimme nicht zu,Stimme zu,
+9,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,langsam,schnell,
+9,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,ineffizient,effizient,
+9,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,unpragmatisch,pragmatisch,
+9,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,überladen,aufgeräumt,
+9,Die Antworten und Fragen des LLM-Agenten sind:,2,unpassend,passend,
+9,Die Antworten und Fragen des LLM-Agenten sind:,3,nutzlos,nützlich,
+9,Die Antworten und Fragen des LLM-Agenten sind:,2,nicht hilfreich,hilfreich,
+9,Die Antworten und Fragen des LLM-Agenten sind:,3,unintelligent,intelligent,
+9,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+9,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,
+9,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,
+9,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,
+9,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,
+9,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,4,Stimme nicht zu,Stimme zu,
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,UI + kein Audio
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,UI + kein Audio
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,einschläfernd,aktivierend,UI + kein Audio
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + kein Audio
+10,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+10,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+10,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + kein Audio
+10,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + kein Audio
+10,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,UI + kein Audio
+10,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + kein Audio
+10,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+10,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+10,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,UI + Audio
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + Audio
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + Audio
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + Audio
+10,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,UI + Audio
+10,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,UI + Audio
+10,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + Audio
+10,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,UI + Audio
+10,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,UI + Audio
+10,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + Audio
+10,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + Audio
+10,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,5,Stimme nicht zu,Stimme zu,UI + Audio
+10,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,UI + Audio
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,ECA + kein Audio
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,ECA + kein Audio
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,ECA + kein Audio
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,ECA + kein Audio
+10,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+10,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+10,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + kein Audio
+10,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + kein Audio
+10,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,ECA + kein Audio
+10,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + kein Audio
+10,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+10,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+10,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,ECA + Audio
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,ECA + Audio
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,ECA + Audio
+10,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,ECA + Audio
+10,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+10,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,ECA + Audio
+10,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,ECA + Audio
+10,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,ECA + Audio
+10,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,ECA + Audio
+10,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + Audio
+10,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+10,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,5,Stimme nicht zu,Stimme zu,ECA + Audio
+10,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+10,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,6,Stimme nicht zu,Stimme zu,
+10,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nutzlos,nützlich,
+10,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht hilfreich,hilfreich,
+10,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht vorteilhaft,vorteilhaft,
+10,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht lohnend,lohnend,
+10,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+10,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,5,Stimme nicht zu,Stimme zu,
+10,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,langsam,schnell,
+10,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,4,ineffizient,effizient,
+10,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,4,unpragmatisch,pragmatisch,
+10,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,4,überladen,aufgeräumt,
+10,Die Antworten und Fragen des LLM-Agenten sind:,3,unpassend,passend,
+10,Die Antworten und Fragen des LLM-Agenten sind:,4,nutzlos,nützlich,
+10,Die Antworten und Fragen des LLM-Agenten sind:,4,nicht hilfreich,hilfreich,
+10,Die Antworten und Fragen des LLM-Agenten sind:,3,unintelligent,intelligent,
+10,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+10,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,
+10,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,
+10,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,
+10,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,
+10,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,6,Stimme nicht zu,Stimme zu,
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,ECA + kein Audio
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,ECA + kein Audio
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,ECA + kein Audio
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,ECA + kein Audio
+12,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+12,Der LLM-Agent hat mich Motiviert,2,Stimme nicht zu,Stimme zu,ECA + kein Audio
+12,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + kein Audio
+12,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + kein Audio
+12,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,ECA + kein Audio
+12,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + kein Audio
+12,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+12,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+12,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,ECA + Audio
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,ECA + Audio
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,ECA + Audio
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,ECA + Audio
+12,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,ECA + Audio
+12,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,ECA + Audio
+12,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,ECA + Audio
+12,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,ECA + Audio
+12,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,ECA + Audio
+12,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + Audio
+12,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+12,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,0,Stimme nicht zu,Stimme zu,ECA + Audio
+12,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,UI + Audio
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,uninteressant,interessant,UI + Audio
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,einschläfernd,aktivierend,UI + Audio
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,UI + Audio
+12,Ich konnte gut mit dem LLM-Agenten lernen,3,Stimme nicht zu,Stimme zu,UI + Audio
+12,Der LLM-Agent hat mich Motiviert,3,Stimme nicht zu,Stimme zu,UI + Audio
+12,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,UI + Audio
+12,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + Audio
+12,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + Audio
+12,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + Audio
+12,Die Gestaltung des LLM-Agenten hat mir gefallen,4,Stimme nicht zu,Stimme zu,UI + Audio
+12,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,0,Stimme nicht zu,Stimme zu,UI + Audio
+12,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,UI + Audio
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,UI + kein Audio
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + kein Audio
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + kein Audio
+12,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + kein Audio
+12,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+12,Der LLM-Agent hat mich Motiviert,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+12,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,UI + kein Audio
+12,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,UI + kein Audio
+12,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,UI + kein Audio
+12,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + kein Audio
+12,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+12,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+12,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+12,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,6,Stimme nicht zu,Stimme zu,
+12,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nutzlos,nützlich,
+12,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht hilfreich,hilfreich,
+12,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht vorteilhaft,vorteilhaft,
+12,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht lohnend,lohnend,
+12,Diese Gestaltung des LLM-Agenten hat mir gefallen,3,Drohne und Audio,Drohne ohne Audio,
+12,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,6,Stimme nicht zu,Stimme zu,
+12,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,langsam,schnell,
+12,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,ineffizient,effizient,
+12,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,unpragmatisch,pragmatisch,
+12,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,überladen,aufgeräumt,
+12,Die Antworten und Fragen des LLM-Agenten sind:,4,unpassend,passend,
+12,Die Antworten und Fragen des LLM-Agenten sind:,4,nutzlos,nützlich,
+12,Die Antworten und Fragen des LLM-Agenten sind:,4,nicht hilfreich,hilfreich,
+12,Die Antworten und Fragen des LLM-Agenten sind:,4,unintelligent,intelligent,
+12,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+12,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,
+12,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,
+12,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,
+12,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,
+12,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,6,Stimme nicht zu,Stimme zu,
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,UI + kein Audio
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + kein Audio
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,UI + kein Audio
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + kein Audio
+13,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+13,Der LLM-Agent hat mich Motiviert,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+13,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,UI + kein Audio
+13,Zum Lernen empfinde ich die Anwendung als:,2,ineffizient,effizient,UI + kein Audio
+13,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + kein Audio
+13,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + kein Audio
+13,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+13,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+13,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,UI + Audio
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + Audio
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + Audio
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,UI + Audio
+13,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + Audio
+13,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,UI + Audio
+13,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,UI + Audio
+13,Zum Lernen empfinde ich die Anwendung als:,2,ineffizient,effizient,UI + Audio
+13,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + Audio
+13,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + Audio
+13,Die Gestaltung des LLM-Agenten hat mir gefallen,4,Stimme nicht zu,Stimme zu,UI + Audio
+13,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,6,Stimme nicht zu,Stimme zu,UI + Audio
+13,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,UI + Audio
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,0,langweilig,spanned,ECA + Audio
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,0,uninteressant,interessant,ECA + Audio
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,0,einschläfernd,aktivierend,ECA + Audio
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,0,minderwertig,wertvoll,ECA + Audio
+13,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,ECA + Audio
+13,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,ECA + Audio
+13,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,ECA + Audio
+13,Zum Lernen empfinde ich die Anwendung als:,2,ineffizient,effizient,ECA + Audio
+13,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,ECA + Audio
+13,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,ECA + Audio
+13,Die Gestaltung des LLM-Agenten hat mir gefallen,4,Stimme nicht zu,Stimme zu,ECA + Audio
+13,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,6,Stimme nicht zu,Stimme zu,ECA + Audio
+13,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,3,langweilig,spanned,ECA + kein Audio
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,uninteressant,interessant,ECA + kein Audio
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,einschläfernd,aktivierend,ECA + kein Audio
+13,Die Beschäftigung mit der Lernanwendung empfinde ich als:,1,minderwertig,wertvoll,ECA + kein Audio
+13,Ich konnte gut mit dem LLM-Agenten lernen,1,Stimme nicht zu,Stimme zu,ECA + kein Audio
+13,Der LLM-Agent hat mich Motiviert,1,Stimme nicht zu,Stimme zu,ECA + kein Audio
+13,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,ECA + kein Audio
+13,Zum Lernen empfinde ich die Anwendung als:,1,ineffizient,effizient,ECA + kein Audio
+13,Zum Lernen empfinde ich die Anwendung als:,1,unpragmatisch,pragmatisch,ECA + kein Audio
+13,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + kein Audio
+13,Die Gestaltung des LLM-Agenten hat mir gefallen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+13,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,ECA + kein Audio
+13,Ich konnte die Informationen gut verstehen,2,Stimme nicht zu,Stimme zu,ECA + kein Audio
+13,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,1,Stimme nicht zu,Stimme zu,
+13,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,3,nutzlos,nützlich,
+13,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,3,nicht hilfreich,hilfreich,
+13,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,3,nicht vorteilhaft,vorteilhaft,
+13,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,3,nicht lohnend,lohnend,
+13,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+13,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,3,Stimme nicht zu,Stimme zu,
+13,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,langsam,schnell,
+13,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,ineffizient,effizient,
+13,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,unpragmatisch,pragmatisch,
+13,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,überladen,aufgeräumt,
+13,Die Antworten und Fragen des LLM-Agenten sind:,2,unpassend,passend,
+13,Die Antworten und Fragen des LLM-Agenten sind:,1,nutzlos,nützlich,
+13,Die Antworten und Fragen des LLM-Agenten sind:,2,nicht hilfreich,hilfreich,
+13,Die Antworten und Fragen des LLM-Agenten sind:,1,unintelligent,intelligent,
+13,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+13,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,
+13,Zum Lernen empfinde ich die Anwendung als:,1,ineffizient,effizient,
+13,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,
+13,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,
+13,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,1,Stimme nicht zu,Stimme zu,
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,ECA + Audio
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,ECA + Audio
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,ECA + Audio
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,ECA + Audio
+31,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,ECA + Audio
+31,Der LLM-Agent hat mich Motiviert,3,Stimme nicht zu,Stimme zu,ECA + Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,ECA + Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,ECA + Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,ECA + Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + Audio
+31,Die Gestaltung des LLM-Agenten hat mir gefallen,4,Stimme nicht zu,Stimme zu,ECA + Audio
+31,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,1,Stimme nicht zu,Stimme zu,ECA + Audio
+31,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,ECA + Audio
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,ECA + kein Audio
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,ECA + kein Audio
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,ECA + kein Audio
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,ECA + kein Audio
+31,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+31,Der LLM-Agent hat mich Motiviert,3,Stimme nicht zu,Stimme zu,ECA + kein Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,ECA + kein Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,ECA + kein Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,ECA + kein Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + kein Audio
+31,Die Gestaltung des LLM-Agenten hat mir gefallen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+31,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,ECA + kein Audio
+31,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,UI + kein Audio
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + kein Audio
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,UI + kein Audio
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + kein Audio
+31,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+31,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,UI + kein Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,UI + kein Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,UI + kein Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + kein Audio
+31,Die Gestaltung des LLM-Agenten hat mir gefallen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+31,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,UI + kein Audio
+31,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,UI + Audio
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + Audio
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,UI + Audio
+31,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + Audio
+31,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + Audio
+31,Der LLM-Agent hat mich Motiviert,2,Stimme nicht zu,Stimme zu,UI + Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,UI + Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,UI + Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,UI + Audio
+31,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + Audio
+31,Die Gestaltung des LLM-Agenten hat mir gefallen,4,Stimme nicht zu,Stimme zu,UI + Audio
+31,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,UI + Audio
+31,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,UI + Audio
+31,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,4,Stimme nicht zu,Stimme zu,
+31,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nutzlos,nützlich,
+31,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht hilfreich,hilfreich,
+31,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht vorteilhaft,vorteilhaft,
+31,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht lohnend,lohnend,
+31,Diese Gestaltung des LLM-Agenten hat mir gefallen,2,Drohne und Audio,Drohne ohne Audio,
+31,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,0,Stimme nicht zu,Stimme zu,
+31,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,langsam,schnell,
+31,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,ineffizient,effizient,
+31,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,unpragmatisch,pragmatisch,
+31,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,überladen,aufgeräumt,
+31,Die Antworten und Fragen des LLM-Agenten sind:,3,unpassend,passend,
+31,Die Antworten und Fragen des LLM-Agenten sind:,3,nutzlos,nützlich,
+31,Die Antworten und Fragen des LLM-Agenten sind:,3,nicht hilfreich,hilfreich,
+31,Die Antworten und Fragen des LLM-Agenten sind:,2,unintelligent,intelligent,
+31,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+31,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,
+31,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,
+31,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,
+31,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,
+31,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,6,Stimme nicht zu,Stimme zu,
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,UI + kein Audio
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + kein Audio
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,UI + kein Audio
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + kein Audio
+2,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+2,Der LLM-Agent hat mich Motiviert,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+2,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + kein Audio
+2,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,UI + kein Audio
+2,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + kein Audio
+2,Zum Lernen empfinde ich die Anwendung als:,2,überladen,aufgeräumt,UI + kein Audio
+2,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+2,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+2,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,UI + Audio
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + Audio
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,UI + Audio
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + Audio
+2,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,UI + Audio
+2,Der LLM-Agent hat mich Motiviert,3,Stimme nicht zu,Stimme zu,UI + Audio
+2,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + Audio
+2,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + Audio
+2,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,UI + Audio
+2,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + Audio
+2,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,UI + Audio
+2,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,UI + Audio
+2,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,UI + Audio
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,ECA + kein Audio
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,ECA + kein Audio
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,ECA + kein Audio
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,ECA + kein Audio
+2,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+2,Der LLM-Agent hat mich Motiviert,2,Stimme nicht zu,Stimme zu,ECA + kein Audio
+2,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,ECA + kein Audio
+2,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,ECA + kein Audio
+2,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,ECA + kein Audio
+2,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + kein Audio
+2,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+2,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,ECA + kein Audio
+2,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,ECA + Audio
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,ECA + Audio
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,ECA + Audio
+2,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,ECA + Audio
+2,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+2,Der LLM-Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,ECA + Audio
+2,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,ECA + Audio
+2,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,ECA + Audio
+2,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,ECA + Audio
+2,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + Audio
+2,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+2,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,0,Stimme nicht zu,Stimme zu,ECA + Audio
+2,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+2,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,4,Stimme nicht zu,Stimme zu,
+2,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nutzlos,nützlich,
+2,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht hilfreich,hilfreich,
+2,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht vorteilhaft,vorteilhaft,
+2,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht lohnend,lohnend,
+2,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+2,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,6,Stimme nicht zu,Stimme zu,
+2,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,4,langsam,schnell,
+2,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,4,ineffizient,effizient,
+2,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,4,unpragmatisch,pragmatisch,
+2,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,4,überladen,aufgeräumt,
+2,Die Antworten und Fragen des LLM-Agenten sind:,4,unpassend,passend,
+2,Die Antworten und Fragen des LLM-Agenten sind:,4,nutzlos,nützlich,
+2,Die Antworten und Fragen des LLM-Agenten sind:,4,nicht hilfreich,hilfreich,
+2,Die Antworten und Fragen des LLM-Agenten sind:,4,unintelligent,intelligent,
+2,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+2,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,
+2,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,
+2,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,
+2,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,
+2,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,6,Stimme nicht zu,Stimme zu,
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,UI + Audio
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,UI + Audio
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + Audio
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,UI + Audio
+3,Ich konnte gut mit dem LLM-Agenten lernen,3,Stimme nicht zu,Stimme zu,UI + Audio
+3,Der LLM-Agent hat mich Motiviert,3,Stimme nicht zu,Stimme zu,UI + Audio
+3,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,UI + Audio
+3,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + Audio
+3,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + Audio
+3,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,UI + Audio
+3,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,UI + Audio
+3,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,3,Stimme nicht zu,Stimme zu,UI + Audio
+3,Ich konnte die Informationen gut verstehen,3,Stimme nicht zu,Stimme zu,UI + Audio
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,UI + kein Audio
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,uninteressant,interessant,UI + kein Audio
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + kein Audio
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,UI + kein Audio
+3,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+3,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+3,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + kein Audio
+3,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + kein Audio
+3,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + kein Audio
+3,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,UI + kein Audio
+3,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+3,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+3,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,ECA + kein Audio
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,ECA + kein Audio
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,ECA + kein Audio
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,ECA + kein Audio
+3,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+3,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+3,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + kein Audio
+3,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + kein Audio
+3,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + kein Audio
+3,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,ECA + kein Audio
+3,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+3,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+3,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,ECA + Audio
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,ECA + Audio
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,ECA + Audio
+3,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,ECA + Audio
+3,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+3,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,ECA + Audio
+3,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + Audio
+3,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,ECA + Audio
+3,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + Audio
+3,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,ECA + Audio
+3,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+3,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,4,Stimme nicht zu,Stimme zu,ECA + Audio
+3,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+3,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,5,Stimme nicht zu,Stimme zu,
+3,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nutzlos,nützlich,
+3,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht hilfreich,hilfreich,
+3,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht vorteilhaft,vorteilhaft,
+3,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht lohnend,lohnend,
+3,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+3,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,4,Stimme nicht zu,Stimme zu,
+3,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,langsam,schnell,
+3,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,ineffizient,effizient,
+3,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,unpragmatisch,pragmatisch,
+3,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,überladen,aufgeräumt,
+3,Die Antworten und Fragen des LLM-Agenten sind:,3,unpassend,passend,
+3,Die Antworten und Fragen des LLM-Agenten sind:,3,nutzlos,nützlich,
+3,Die Antworten und Fragen des LLM-Agenten sind:,4,nicht hilfreich,hilfreich,
+3,Die Antworten und Fragen des LLM-Agenten sind:,4,unintelligent,intelligent,
+3,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+3,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,
+3,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,
+3,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,
+3,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,
+3,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,6,Stimme nicht zu,Stimme zu,
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,UI + kein Audio
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,uninteressant,interessant,UI + kein Audio
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,einschläfernd,aktivierend,UI + kein Audio
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + kein Audio
+21,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+21,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+21,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + kein Audio
+21,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + kein Audio
+21,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,UI + kein Audio
+21,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + kein Audio
+21,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+21,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,1,Stimme nicht zu,Stimme zu,UI + kein Audio
+21,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,UI + Audio
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,UI + Audio
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,UI + Audio
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,UI + Audio
+21,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + Audio
+21,Der LLM-Agent hat mich Motiviert,6,Stimme nicht zu,Stimme zu,UI + Audio
+21,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,UI + Audio
+21,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + Audio
+21,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + Audio
+21,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + Audio
+21,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + Audio
+21,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,5,Stimme nicht zu,Stimme zu,UI + Audio
+21,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,UI + Audio
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,ECA + Audio
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,ECA + Audio
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,ECA + Audio
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,ECA + Audio
+21,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+21,Der LLM-Agent hat mich Motiviert,6,Stimme nicht zu,Stimme zu,ECA + Audio
+21,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + Audio
+21,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + Audio
+21,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,ECA + Audio
+21,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + Audio
+21,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+21,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,ECA + Audio
+21,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,3,langweilig,spanned,ECA + kein Audio
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,uninteressant,interessant,ECA + kein Audio
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,3,einschläfernd,aktivierend,ECA + kein Audio
+21,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,ECA + kein Audio
+21,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+21,Der LLM-Agent hat mich Motiviert,3,Stimme nicht zu,Stimme zu,ECA + kein Audio
+21,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + kein Audio
+21,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + kein Audio
+21,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + kein Audio
+21,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,ECA + kein Audio
+21,Die Gestaltung des LLM-Agenten hat mir gefallen,1,Stimme nicht zu,Stimme zu,ECA + kein Audio
+21,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+21,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+21,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,4,Stimme nicht zu,Stimme zu,
+21,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nutzlos,nützlich,
+21,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht hilfreich,hilfreich,
+21,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht vorteilhaft,vorteilhaft,
+21,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht lohnend,lohnend,
+21,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+21,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,6,Stimme nicht zu,Stimme zu,
+21,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,langsam,schnell,
+21,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,ineffizient,effizient,
+21,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,unpragmatisch,pragmatisch,
+21,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,überladen,aufgeräumt,
+21,Die Antworten und Fragen des LLM-Agenten sind:,3,unpassend,passend,
+21,Die Antworten und Fragen des LLM-Agenten sind:,4,nutzlos,nützlich,
+21,Die Antworten und Fragen des LLM-Agenten sind:,2,nicht hilfreich,hilfreich,
+21,Die Antworten und Fragen des LLM-Agenten sind:,3,unintelligent,intelligent,
+21,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+21,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,
+21,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,
+21,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,
+21,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,
+21,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,3,Stimme nicht zu,Stimme zu,
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,ECA + Audio
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,ECA + Audio
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,ECA + Audio
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,ECA + Audio
+16,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+16,Der LLM-Agent hat mich Motiviert,3,Stimme nicht zu,Stimme zu,ECA + Audio
+16,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + Audio
+16,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + Audio
+16,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,ECA + Audio
+16,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,ECA + Audio
+16,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+16,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,ECA + Audio
+16,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,0,langweilig,spanned,ECA + kein Audio
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,0,uninteressant,interessant,ECA + kein Audio
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,0,einschläfernd,aktivierend,ECA + kein Audio
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,minderwertig,wertvoll,ECA + kein Audio
+16,Ich konnte gut mit dem LLM-Agenten lernen,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+16,Der LLM-Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+16,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,ECA + kein Audio
+16,Zum Lernen empfinde ich die Anwendung als:,0,ineffizient,effizient,ECA + kein Audio
+16,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,ECA + kein Audio
+16,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + kein Audio
+16,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+16,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,ECA + kein Audio
+16,Ich konnte die Informationen gut verstehen,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,UI + Audio
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,UI + Audio
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,einschläfernd,aktivierend,UI + Audio
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,UI + Audio
+16,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,UI + Audio
+16,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,UI + Audio
+16,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + Audio
+16,Zum Lernen empfinde ich die Anwendung als:,2,ineffizient,effizient,UI + Audio
+16,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + Audio
+16,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + Audio
+16,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + Audio
+16,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,UI + Audio
+16,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,UI + Audio
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,UI + kein Audio
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + kein Audio
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,UI + kein Audio
+16,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,UI + kein Audio
+16,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+16,Der LLM-Agent hat mich Motiviert,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+16,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + kein Audio
+16,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,UI + kein Audio
+16,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,UI + kein Audio
+16,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + kein Audio
+16,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+16,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,UI + kein Audio
+16,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+16,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,5,Stimme nicht zu,Stimme zu,
+16,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nutzlos,nützlich,
+16,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht hilfreich,hilfreich,
+16,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht vorteilhaft,vorteilhaft,
+16,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht lohnend,lohnend,
+16,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+16,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,6,Stimme nicht zu,Stimme zu,
+16,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,1,langsam,schnell,
+16,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,1,ineffizient,effizient,
+16,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,unpragmatisch,pragmatisch,
+16,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,4,überladen,aufgeräumt,
+16,Die Antworten und Fragen des LLM-Agenten sind:,3,unpassend,passend,
+16,Die Antworten und Fragen des LLM-Agenten sind:,3,nutzlos,nützlich,
+16,Die Antworten und Fragen des LLM-Agenten sind:,3,nicht hilfreich,hilfreich,
+16,Die Antworten und Fragen des LLM-Agenten sind:,3,unintelligent,intelligent,
+16,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+16,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,
+16,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,
+16,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,
+16,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,
+16,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,6,Stimme nicht zu,Stimme zu,
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,UI + Audio
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + Audio
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + Audio
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,UI + Audio
+6,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,UI + Audio
+6,Der LLM-Agent hat mich Motiviert,3,Stimme nicht zu,Stimme zu,UI + Audio
+6,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,UI + Audio
+6,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,UI + Audio
+6,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + Audio
+6,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + Audio
+6,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + Audio
+6,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,4,Stimme nicht zu,Stimme zu,UI + Audio
+6,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,UI + Audio
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,3,langweilig,spanned,UI + kein Audio
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,uninteressant,interessant,UI + kein Audio
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,einschläfernd,aktivierend,UI + kein Audio
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,UI + kein Audio
+6,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+6,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+6,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,UI + kein Audio
+6,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + kein Audio
+6,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + kein Audio
+6,Zum Lernen empfinde ich die Anwendung als:,2,überladen,aufgeräumt,UI + kein Audio
+6,Die Gestaltung des LLM-Agenten hat mir gefallen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+6,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,UI + kein Audio
+6,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,ECA + Audio
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,ECA + Audio
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,ECA + Audio
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,ECA + Audio
+6,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+6,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,ECA + Audio
+6,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,ECA + Audio
+6,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + Audio
+6,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + Audio
+6,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + Audio
+6,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+6,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,4,Stimme nicht zu,Stimme zu,ECA + Audio
+6,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,ECA + kein Audio
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,ECA + kein Audio
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,einschläfernd,aktivierend,ECA + kein Audio
+6,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,ECA + kein Audio
+6,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+6,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+6,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,ECA + kein Audio
+6,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + kein Audio
+6,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + kein Audio
+6,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + kein Audio
+6,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+6,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,3,Stimme nicht zu,Stimme zu,ECA + kein Audio
+6,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+6,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,6,Stimme nicht zu,Stimme zu,
+6,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nutzlos,nützlich,
+6,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht hilfreich,hilfreich,
+6,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht vorteilhaft,vorteilhaft,
+6,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht lohnend,lohnend,
+6,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+6,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,3,Stimme nicht zu,Stimme zu,
+6,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,langsam,schnell,
+6,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,ineffizient,effizient,
+6,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,unpragmatisch,pragmatisch,
+6,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,überladen,aufgeräumt,
+6,Die Antworten und Fragen des LLM-Agenten sind:,3,unpassend,passend,
+6,Die Antworten und Fragen des LLM-Agenten sind:,4,nutzlos,nützlich,
+6,Die Antworten und Fragen des LLM-Agenten sind:,3,nicht hilfreich,hilfreich,
+6,Die Antworten und Fragen des LLM-Agenten sind:,3,unintelligent,intelligent,
+6,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+6,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,
+6,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,
+6,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,
+6,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,
+6,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,4,Stimme nicht zu,Stimme zu,
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,ECA + Audio
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,uninteressant,interessant,ECA + Audio
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,einschläfernd,aktivierend,ECA + Audio
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,ECA + Audio
+7,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+7,Der LLM-Agent hat mich Motiviert,6,Stimme nicht zu,Stimme zu,ECA + Audio
+7,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + Audio
+7,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,ECA + Audio
+7,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + Audio
+7,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + Audio
+7,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+7,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,5,Stimme nicht zu,Stimme zu,ECA + Audio
+7,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,ECA + Audio
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,ECA + kein Audio
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,uninteressant,interessant,ECA + kein Audio
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,einschläfernd,aktivierend,ECA + kein Audio
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,ECA + kein Audio
+7,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+7,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+7,Zum Lernen empfinde ich die Anwendung als:,1,langsam,schnell,ECA + kein Audio
+7,Zum Lernen empfinde ich die Anwendung als:,2,ineffizient,effizient,ECA + kein Audio
+7,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,ECA + kein Audio
+7,Zum Lernen empfinde ich die Anwendung als:,2,überladen,aufgeräumt,ECA + kein Audio
+7,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+7,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,ECA + kein Audio
+7,Ich konnte die Informationen gut verstehen,3,Stimme nicht zu,Stimme zu,ECA + kein Audio
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,UI + kein Audio
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,uninteressant,interessant,UI + kein Audio
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,einschläfernd,aktivierend,UI + kein Audio
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,UI + kein Audio
+7,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+7,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+7,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + kein Audio
+7,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + kein Audio
+7,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + kein Audio
+7,Zum Lernen empfinde ich die Anwendung als:,2,überladen,aufgeräumt,UI + kein Audio
+7,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+7,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,3,Stimme nicht zu,Stimme zu,UI + kein Audio
+7,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,UI + Audio
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + Audio
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,UI + Audio
+7,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + Audio
+7,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,UI + Audio
+7,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,UI + Audio
+7,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + Audio
+7,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + Audio
+7,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + Audio
+7,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,UI + Audio
+7,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,UI + Audio
+7,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,4,Stimme nicht zu,Stimme zu,UI + Audio
+7,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,UI + Audio
+7,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,5,Stimme nicht zu,Stimme zu,
+7,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nutzlos,nützlich,
+7,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht hilfreich,hilfreich,
+7,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht vorteilhaft,vorteilhaft,
+7,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht lohnend,lohnend,
+7,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+7,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,5,Stimme nicht zu,Stimme zu,
+7,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,langsam,schnell,
+7,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,ineffizient,effizient,
+7,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,unpragmatisch,pragmatisch,
+7,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,überladen,aufgeräumt,
+7,Die Antworten und Fragen des LLM-Agenten sind:,3,unpassend,passend,
+7,Die Antworten und Fragen des LLM-Agenten sind:,3,nutzlos,nützlich,
+7,Die Antworten und Fragen des LLM-Agenten sind:,3,nicht hilfreich,hilfreich,
+7,Die Antworten und Fragen des LLM-Agenten sind:,3,unintelligent,intelligent,
+7,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,5,Stimme nicht zu,Stimme zu,
+7,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,
+7,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,
+7,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,
+7,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,
+7,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,5,Stimme nicht zu,Stimme zu,
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,UI + Audio
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + Audio
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,UI + Audio
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + Audio
+22,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + Audio
+22,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,UI + Audio
+22,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + Audio
+22,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + Audio
+22,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + Audio
+22,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,UI + Audio
+22,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,UI + Audio
+22,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,4,Stimme nicht zu,Stimme zu,UI + Audio
+22,Ich konnte die Informationen gut verstehen,3,Stimme nicht zu,Stimme zu,UI + Audio
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,UI + kein Audio
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + kein Audio
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,UI + kein Audio
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + kein Audio
+22,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+22,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+22,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + kein Audio
+22,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + kein Audio
+22,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,UI + kein Audio
+22,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,UI + kein Audio
+22,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+22,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+22,Ich konnte die Informationen gut verstehen,3,Stimme nicht zu,Stimme zu,UI + kein Audio
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,ECA + Audio
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,ECA + Audio
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,ECA + Audio
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,ECA + Audio
+22,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,ECA + Audio
+22,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,ECA + Audio
+22,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,ECA + Audio
+22,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,ECA + Audio
+22,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,ECA + Audio
+22,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + Audio
+22,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+22,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,4,Stimme nicht zu,Stimme zu,ECA + Audio
+22,Ich konnte die Informationen gut verstehen,3,Stimme nicht zu,Stimme zu,ECA + Audio
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,ECA + kein Audio
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,ECA + kein Audio
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,ECA + kein Audio
+22,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,ECA + kein Audio
+22,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+22,Der LLM-Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+22,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,ECA + kein Audio
+22,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,ECA + kein Audio
+22,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,ECA + kein Audio
+22,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + kein Audio
+22,Die Gestaltung des LLM-Agenten hat mir gefallen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+22,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,3,Stimme nicht zu,Stimme zu,ECA + kein Audio
+22,Ich konnte die Informationen gut verstehen,3,Stimme nicht zu,Stimme zu,ECA + kein Audio
+22,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,3,Stimme nicht zu,Stimme zu,
+22,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nutzlos,nützlich,
+22,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht hilfreich,hilfreich,
+22,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht vorteilhaft,vorteilhaft,
+22,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht lohnend,lohnend,
+22,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+22,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,3,Stimme nicht zu,Stimme zu,
+22,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,1,langsam,schnell,
+22,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,1,ineffizient,effizient,
+22,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,1,unpragmatisch,pragmatisch,
+22,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,überladen,aufgeräumt,
+22,Die Antworten und Fragen des LLM-Agenten sind:,2,unpassend,passend,
+22,Die Antworten und Fragen des LLM-Agenten sind:,2,nutzlos,nützlich,
+22,Die Antworten und Fragen des LLM-Agenten sind:,2,nicht hilfreich,hilfreich,
+22,Die Antworten und Fragen des LLM-Agenten sind:,2,unintelligent,intelligent,
+22,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,5,Stimme nicht zu,Stimme zu,
+22,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,
+22,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,
+22,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,
+22,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,
+22,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,4,Stimme nicht zu,Stimme zu,
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,UI + Audio
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,UI + Audio
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,einschläfernd,aktivierend,UI + Audio
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,UI + Audio
+11,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,UI + Audio
+11,Der LLM-Agent hat mich Motiviert,3,Stimme nicht zu,Stimme zu,UI + Audio
+11,Zum Lernen empfinde ich die Anwendung als:,1,langsam,schnell,UI + Audio
+11,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + Audio
+11,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + Audio
+11,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,UI + Audio
+11,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,UI + Audio
+11,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,1,Stimme nicht zu,Stimme zu,UI + Audio
+11,Ich konnte die Informationen gut verstehen,3,Stimme nicht zu,Stimme zu,UI + Audio
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,3,langweilig,spanned,UI + kein Audio
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,uninteressant,interessant,UI + kein Audio
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + kein Audio
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,UI + kein Audio
+11,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+11,Der LLM-Agent hat mich Motiviert,3,Stimme nicht zu,Stimme zu,UI + kein Audio
+11,Zum Lernen empfinde ich die Anwendung als:,0,langsam,schnell,UI + kein Audio
+11,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + kein Audio
+11,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + kein Audio
+11,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + kein Audio
+11,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+11,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,0,Stimme nicht zu,Stimme zu,UI + kein Audio
+11,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,langweilig,spanned,ECA + kein Audio
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,uninteressant,interessant,ECA + kein Audio
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,einschläfernd,aktivierend,ECA + kein Audio
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,3,minderwertig,wertvoll,ECA + kein Audio
+11,Ich konnte gut mit dem LLM-Agenten lernen,3,Stimme nicht zu,Stimme zu,ECA + kein Audio
+11,Der LLM-Agent hat mich Motiviert,2,Stimme nicht zu,Stimme zu,ECA + kein Audio
+11,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,ECA + kein Audio
+11,Zum Lernen empfinde ich die Anwendung als:,2,ineffizient,effizient,ECA + kein Audio
+11,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + kein Audio
+11,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + kein Audio
+11,Die Gestaltung des LLM-Agenten hat mir gefallen,3,Stimme nicht zu,Stimme zu,ECA + kein Audio
+11,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,0,Stimme nicht zu,Stimme zu,ECA + kein Audio
+11,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,ECA + Audio
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,ECA + Audio
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,ECA + Audio
+11,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,ECA + Audio
+11,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,ECA + Audio
+11,Der LLM-Agent hat mich Motiviert,1,Stimme nicht zu,Stimme zu,ECA + Audio
+11,Zum Lernen empfinde ich die Anwendung als:,1,langsam,schnell,ECA + Audio
+11,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + Audio
+11,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + Audio
+11,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + Audio
+11,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+11,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,0,Stimme nicht zu,Stimme zu,ECA + Audio
+11,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+11,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,5,Stimme nicht zu,Stimme zu,
+11,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nutzlos,nützlich,
+11,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht hilfreich,hilfreich,
+11,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht vorteilhaft,vorteilhaft,
+11,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht lohnend,lohnend,
+11,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+11,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,1,Stimme nicht zu,Stimme zu,
+11,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,langsam,schnell,
+11,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,1,ineffizient,effizient,
+11,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,1,unpragmatisch,pragmatisch,
+11,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,4,überladen,aufgeräumt,
+11,Die Antworten und Fragen des LLM-Agenten sind:,3,unpassend,passend,
+11,Die Antworten und Fragen des LLM-Agenten sind:,3,nutzlos,nützlich,
+11,Die Antworten und Fragen des LLM-Agenten sind:,3,nicht hilfreich,hilfreich,
+11,Die Antworten und Fragen des LLM-Agenten sind:,2,unintelligent,intelligent,
+11,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,5,Stimme nicht zu,Stimme zu,
+11,Zum Lernen empfinde ich die Anwendung als:,1,langsam,schnell,
+11,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,
+11,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,
+11,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,
+11,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,4,Stimme nicht zu,Stimme zu,
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,UI + Audio
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,UI + Audio
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,UI + Audio
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + Audio
+14,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,UI + Audio
+14,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,UI + Audio
+14,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,UI + Audio
+14,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,UI + Audio
+14,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,UI + Audio
+14,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,UI + Audio
+14,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + Audio
+14,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,UI + Audio
+14,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,UI + Audio
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,UI + kein Audio
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + kein Audio
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,einschläfernd,aktivierend,UI + kein Audio
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + kein Audio
+14,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+14,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+14,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,UI + kein Audio
+14,Zum Lernen empfinde ich die Anwendung als:,2,ineffizient,effizient,UI + kein Audio
+14,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,UI + kein Audio
+14,Zum Lernen empfinde ich die Anwendung als:,2,überladen,aufgeräumt,UI + kein Audio
+14,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+14,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,3,Stimme nicht zu,Stimme zu,UI + kein Audio
+14,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,ECA + Audio
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,ECA + Audio
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,ECA + Audio
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,ECA + Audio
+14,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+14,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,ECA + Audio
+14,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,ECA + Audio
+14,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,ECA + Audio
+14,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,ECA + Audio
+14,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + Audio
+14,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+14,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,3,Stimme nicht zu,Stimme zu,ECA + Audio
+14,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,0,langweilig,spanned,ECA + kein Audio
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,0,uninteressant,interessant,ECA + kein Audio
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,0,einschläfernd,aktivierend,ECA + kein Audio
+14,Die Beschäftigung mit der Lernanwendung empfinde ich als:,0,minderwertig,wertvoll,ECA + kein Audio
+14,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+14,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+14,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + kein Audio
+14,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,ECA + kein Audio
+14,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,ECA + kein Audio
+14,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + kein Audio
+14,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+14,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,3,Stimme nicht zu,Stimme zu,ECA + kein Audio
+14,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+14,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,4,Stimme nicht zu,Stimme zu,
+14,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,0,nutzlos,nützlich,
+14,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,0,nicht hilfreich,hilfreich,
+14,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,0,nicht vorteilhaft,vorteilhaft,
+14,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,1,nicht lohnend,lohnend,
+14,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+14,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,6,Stimme nicht zu,Stimme zu,
+14,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,4,langsam,schnell,
+14,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,4,ineffizient,effizient,
+14,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,4,unpragmatisch,pragmatisch,
+14,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,überladen,aufgeräumt,
+14,Die Antworten und Fragen des LLM-Agenten sind:,2,unpassend,passend,
+14,Die Antworten und Fragen des LLM-Agenten sind:,2,nutzlos,nützlich,
+14,Die Antworten und Fragen des LLM-Agenten sind:,2,nicht hilfreich,hilfreich,
+14,Die Antworten und Fragen des LLM-Agenten sind:,3,unintelligent,intelligent,
+14,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,5,Stimme nicht zu,Stimme zu,
+14,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,
+14,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,
+14,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,
+14,Zum Lernen empfinde ich die Anwendung als:,2,überladen,aufgeräumt,
+14,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,4,Stimme nicht zu,Stimme zu,
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,UI + Audio
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,UI + Audio
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + Audio
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,UI + Audio
+19,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,UI + Audio
+19,Der LLM-Agent hat mich Motiviert,0,Stimme nicht zu,Stimme zu,UI + Audio
+19,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,UI + Audio
+19,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + Audio
+19,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,UI + Audio
+19,Zum Lernen empfinde ich die Anwendung als:,1,überladen,aufgeräumt,UI + Audio
+19,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + Audio
+19,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,UI + Audio
+19,Ich konnte die Informationen gut verstehen,3,Stimme nicht zu,Stimme zu,UI + Audio
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,UI + kein Audio
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,UI + kein Audio
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + kein Audio
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,UI + kein Audio
+19,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+19,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+19,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,UI + kein Audio
+19,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + kein Audio
+19,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,UI + kein Audio
+19,Zum Lernen empfinde ich die Anwendung als:,2,überladen,aufgeräumt,UI + kein Audio
+19,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+19,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,UI + kein Audio
+19,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,ECA + kein Audio
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,ECA + kein Audio
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,ECA + kein Audio
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,ECA + kein Audio
+19,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+19,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+19,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,ECA + kein Audio
+19,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + kein Audio
+19,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,ECA + kein Audio
+19,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,ECA + kein Audio
+19,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+19,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,2,Stimme nicht zu,Stimme zu,ECA + kein Audio
+19,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,ECA + Audio
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,ECA + Audio
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,ECA + Audio
+19,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,ECA + Audio
+19,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+19,Der LLM-Agent hat mich Motiviert,6,Stimme nicht zu,Stimme zu,ECA + Audio
+19,Zum Lernen empfinde ich die Anwendung als:,1,langsam,schnell,ECA + Audio
+19,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + Audio
+19,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + Audio
+19,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,ECA + Audio
+19,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+19,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,4,Stimme nicht zu,Stimme zu,ECA + Audio
+19,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+19,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,5,Stimme nicht zu,Stimme zu,
+19,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nutzlos,nützlich,
+19,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht hilfreich,hilfreich,
+19,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht vorteilhaft,vorteilhaft,
+19,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht lohnend,lohnend,
+19,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+19,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,5,Stimme nicht zu,Stimme zu,
+19,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,langsam,schnell,
+19,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,ineffizient,effizient,
+19,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,unpragmatisch,pragmatisch,
+19,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,überladen,aufgeräumt,
+19,Die Antworten und Fragen des LLM-Agenten sind:,3,unpassend,passend,
+19,Die Antworten und Fragen des LLM-Agenten sind:,3,nutzlos,nützlich,
+19,Die Antworten und Fragen des LLM-Agenten sind:,4,nicht hilfreich,hilfreich,
+19,Die Antworten und Fragen des LLM-Agenten sind:,3,unintelligent,intelligent,
+19,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+19,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,
+19,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,
+19,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,
+19,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,
+19,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,5,Stimme nicht zu,Stimme zu,
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,UI + kein Audio
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,UI + kein Audio
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,3,einschläfernd,aktivierend,UI + kein Audio
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,UI + kein Audio
+18,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+18,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+18,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,UI + kein Audio
+18,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + kein Audio
+18,Zum Lernen empfinde ich die Anwendung als:,4,unpragmatisch,pragmatisch,UI + kein Audio
+18,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + kein Audio
+18,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+18,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,3,Stimme nicht zu,Stimme zu,UI + kein Audio
+18,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,UI + Audio
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + Audio
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + Audio
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + Audio
+18,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,UI + Audio
+18,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,UI + Audio
+18,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + Audio
+18,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + Audio
+18,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + Audio
+18,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,UI + Audio
+18,Die Gestaltung des LLM-Agenten hat mir gefallen,4,Stimme nicht zu,Stimme zu,UI + Audio
+18,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,3,Stimme nicht zu,Stimme zu,UI + Audio
+18,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,UI + Audio
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,ECA + kein Audio
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,ECA + kein Audio
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,einschläfernd,aktivierend,ECA + kein Audio
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,ECA + kein Audio
+18,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+18,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+18,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,ECA + kein Audio
+18,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + kein Audio
+18,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + kein Audio
+18,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,ECA + kein Audio
+18,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+18,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,3,Stimme nicht zu,Stimme zu,ECA + kein Audio
+18,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,ECA + Audio
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,ECA + Audio
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,einschläfernd,aktivierend,ECA + Audio
+18,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,ECA + Audio
+18,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+18,Der LLM-Agent hat mich Motiviert,4,Stimme nicht zu,Stimme zu,ECA + Audio
+18,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + Audio
+18,Zum Lernen empfinde ich die Anwendung als:,2,ineffizient,effizient,ECA + Audio
+18,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + Audio
+18,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,ECA + Audio
+18,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,ECA + Audio
+18,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,3,Stimme nicht zu,Stimme zu,ECA + Audio
+18,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+18,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,5,Stimme nicht zu,Stimme zu,
+18,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nutzlos,nützlich,
+18,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht hilfreich,hilfreich,
+18,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht vorteilhaft,vorteilhaft,
+18,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht lohnend,lohnend,
+18,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio,
+18,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,4,Stimme nicht zu,Stimme zu,
+18,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,langsam,schnell,
+18,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,4,ineffizient,effizient,
+18,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,4,unpragmatisch,pragmatisch,
+18,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,überladen,aufgeräumt,
+18,Die Antworten und Fragen des LLM-Agenten sind:,4,unpassend,passend,
+18,Die Antworten und Fragen des LLM-Agenten sind:,4,nutzlos,nützlich,
+18,Die Antworten und Fragen des LLM-Agenten sind:,2,nicht hilfreich,hilfreich,
+18,Die Antworten und Fragen des LLM-Agenten sind:,3,unintelligent,intelligent,
+18,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+18,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,
+18,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,
+18,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,
+18,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,
+18,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,6,Stimme nicht zu,Stimme zu,
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,langweilig,spanned,ECA + kein Audio
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,ECA + kein Audio
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,ECA + kein Audio
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,ECA + kein Audio
+20,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,ECA + kein Audio
+20,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+20,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,ECA + kein Audio
+20,Zum Lernen empfinde ich die Anwendung als:,2,ineffizient,effizient,ECA + kein Audio
+20,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + kein Audio
+20,Zum Lernen empfinde ich die Anwendung als:,2,überladen,aufgeräumt,ECA + kein Audio
+20,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+20,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,1,Stimme nicht zu,Stimme zu,ECA + kein Audio
+20,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,ECA + Audio
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,3,uninteressant,interessant,ECA + Audio
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,einschläfernd,aktivierend,ECA + Audio
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,minderwertig,wertvoll,ECA + Audio
+20,Ich konnte gut mit dem LLM-Agenten lernen,3,Stimme nicht zu,Stimme zu,ECA + Audio
+20,Der LLM-Agent hat mich Motiviert,3,Stimme nicht zu,Stimme zu,ECA + Audio
+20,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + Audio
+20,Zum Lernen empfinde ich die Anwendung als:,2,ineffizient,effizient,ECA + Audio
+20,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,ECA + Audio
+20,Zum Lernen empfinde ich die Anwendung als:,2,überladen,aufgeräumt,ECA + Audio
+20,Die Gestaltung des LLM-Agenten hat mir gefallen,2,Stimme nicht zu,Stimme zu,ECA + Audio
+20,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,1,Stimme nicht zu,Stimme zu,ECA + Audio
+20,Ich konnte die Informationen gut verstehen,4,Stimme nicht zu,Stimme zu,ECA + Audio
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,UI + Audio
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,uninteressant,interessant,UI + Audio
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + Audio
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,UI + Audio
+20,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,UI + Audio
+20,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,UI + Audio
+20,Zum Lernen empfinde ich die Anwendung als:,2,langsam,schnell,UI + Audio
+20,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + Audio
+20,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + Audio
+20,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + Audio
+20,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,UI + Audio
+20,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,1,Stimme nicht zu,Stimme zu,UI + Audio
+20,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,UI + Audio
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,4,langweilig,spanned,UI + kein Audio
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,uninteressant,interessant,UI + kein Audio
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,einschläfernd,aktivierend,UI + kein Audio
+20,Die Beschäftigung mit der Lernanwendung empfinde ich als:,2,minderwertig,wertvoll,UI + kein Audio
+20,Ich konnte gut mit dem LLM-Agenten lernen,4,Stimme nicht zu,Stimme zu,UI + kein Audio
+20,Der LLM-Agent hat mich Motiviert,3,Stimme nicht zu,Stimme zu,UI + kein Audio
+20,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + kein Audio
+20,Zum Lernen empfinde ich die Anwendung als:,2,ineffizient,effizient,UI + kein Audio
+20,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,UI + kein Audio
+20,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,UI + kein Audio
+20,Die Gestaltung des LLM-Agenten hat mir gefallen,2,Stimme nicht zu,Stimme zu,UI + kein Audio
+20,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,1,Stimme nicht zu,Stimme zu,UI + kein Audio
+20,Ich konnte die Informationen gut verstehen,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+20,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,4,Stimme nicht zu,Stimme zu,
+20,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nutzlos,nützlich,
+20,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,5,nicht hilfreich,hilfreich,
+20,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,4,nicht vorteilhaft,vorteilhaft,
+20,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,3,nicht lohnend,lohnend,
+20,Diese Gestaltung des LLM-Agenten hat mir gefallen,2,Drohne und Audio,Drohne ohne Audio,
+20,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,5,Stimme nicht zu,Stimme zu,
+20,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,1,langsam,schnell,
+20,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,ineffizient,effizient,
+20,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,2,unpragmatisch,pragmatisch,
+20,Die Eselsbrücken die  mir vorgeschlagen wurden haben mir beim Lernen geholfen,3,überladen,aufgeräumt,
+20,Die Antworten und Fragen des LLM-Agenten sind:,3,unpassend,passend,
+20,Die Antworten und Fragen des LLM-Agenten sind:,2,nutzlos,nützlich,
+20,Die Antworten und Fragen des LLM-Agenten sind:,3,nicht hilfreich,hilfreich,
+20,Die Antworten und Fragen des LLM-Agenten sind:,2,unintelligent,intelligent,
+20,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu,
+20,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,
+20,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,
+20,Zum Lernen empfinde ich die Anwendung als:,3,unpragmatisch,pragmatisch,
+20,Zum Lernen empfinde ich die Anwendung als:,3,überladen,aufgeräumt,
+20,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,4,Stimme nicht zu,Stimme zu,
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,ECA + kein Audio
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,0,uninteressant,interessant,ECA + kein Audio
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,ECA + kein Audio
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,minderwertig,wertvoll,ECA + kein Audio
+4,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,ECA + kein Audio
+4,Der LLM-Agent hat mich Motiviert,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+4,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,ECA + kein Audio
+4,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,ECA + kein Audio
+4,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,ECA + kein Audio
+4,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + kein Audio
+4,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+4,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,1,Stimme nicht zu,Stimme zu,ECA + kein Audio
+4,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,ECA + kein Audio
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,ECA + Audio
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,ECA + Audio
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,einschläfernd,aktivierend,ECA + Audio
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,ECA + Audio
+4,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+4,Der LLM-Agent hat mich Motiviert,6,Stimme nicht zu,Stimme zu,ECA + Audio
+4,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell,ECA + Audio
+4,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient,ECA + Audio
+4,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,ECA + Audio
+4,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,ECA + Audio
+4,Die Gestaltung des LLM-Agenten hat mir gefallen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+4,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,1,Stimme nicht zu,Stimme zu,ECA + Audio
+4,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,ECA + Audio
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,UI + Audio
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + Audio
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + Audio
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + Audio
+4,Ich konnte gut mit dem LLM-Agenten lernen,5,Stimme nicht zu,Stimme zu,UI + Audio
+4,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,UI + Audio
+4,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + Audio
+4,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + Audio
+4,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,UI + Audio
+4,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + Audio
+4,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,UI + Audio
+4,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,1,Stimme nicht zu,Stimme zu,UI + Audio
+4,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,UI + Audio
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,langweilig,spanned,UI + kein Audio
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,uninteressant,interessant,UI + kein Audio
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,5,einschläfernd,aktivierend,UI + kein Audio
+4,Die Beschäftigung mit der Lernanwendung empfinde ich als:,6,minderwertig,wertvoll,UI + kein Audio
+4,Ich konnte gut mit dem LLM-Agenten lernen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+4,Der LLM-Agent hat mich Motiviert,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+4,Zum Lernen empfinde ich die Anwendung als:,3,langsam,schnell,UI + kein Audio
+4,Zum Lernen empfinde ich die Anwendung als:,3,ineffizient,effizient,UI + kein Audio
+4,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch,UI + kein Audio
+4,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt,UI + kein Audio
+4,Die Gestaltung des LLM-Agenten hat mir gefallen,5,Stimme nicht zu,Stimme zu,UI + kein Audio
+4,Ich hatte das Gefühl mit einer Person in der virtuellen Umgebung zu interagieren statt mit einer Computer-Simulation,1,Stimme nicht zu,Stimme zu,UI + kein Audio
+4,Ich konnte die Informationen gut verstehen,6,Stimme nicht zu,Stimme zu,UI + kein Audio
+4,Durch die Abfrage des LLM Agenten konnte ich die Komponenten gut lernen,5,Stimme nicht zu,Stimme zu
+4,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nutzlos,nützlich
+4,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht hilfreich,hilfreich
+4,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht vorteilhaft,vorteilhaft
+4,Die Möglichkeit die Lernanwendung zu nutzen empfinde ich als:,6,nicht lohnend,lohnend
+4,Diese Gestaltung des LLM-Agenten hat mir gefallen,0,Drohne und Audio,Drohne ohne Audio
+4,Die Nennung des meines eigenen Namens während der Nutzung empfand ich als motivierend,3,Stimme nicht zu,Stimme zu
+4,Die Eselsbrücken die mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,langsam,schnell
+4,Die Eselsbrücken die mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,ineffizient,effizient
+4,Die Eselsbrücken die mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,unpragmatisch,pragmatisch
+4,Die Eselsbrücken die mir vorgeschlagen wurden haben mir beim Lernen geholfen,0,überladen,aufgeräumt
+4,Die Antworten und Fragen des LLM-Agenten sind:,4,unpassend,passend
+4,Die Antworten und Fragen des LLM-Agenten sind:,4,nutzlos,nützlich
+4,Die Antworten und Fragen des LLM-Agenten sind:,4,nicht hilfreich,hilfreich
+4,Die Antworten und Fragen des LLM-Agenten sind:,2,unintelligent,intelligent
+4,Die Möglichkeit mir durch den LLM-Agenten Komponenten markieren zu lassen war nützlich,6,Stimme nicht zu,Stimme zu
+4,Zum Lernen empfinde ich die Anwendung als:,4,langsam,schnell
+4,Zum Lernen empfinde ich die Anwendung als:,4,ineffizient,effizient
+4,Zum Lernen empfinde ich die Anwendung als:,2,unpragmatisch,pragmatisch
+4,Zum Lernen empfinde ich die Anwendung als:,4,überladen,aufgeräumt
+4,Die Zusammenfassung meiner Lernsession hat mir beim Lernen geholfen.,5,Stimme nicht zu,Stimme zu
+
